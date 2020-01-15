@@ -7,5 +7,5 @@ Design and implement a relational database system to search patient data from ho
 Built using: [PHP](https://www.php.net/), [MySQL](http://www.mysql.com/), [Bootstrap](http://getbootstrap.com/)
 
 # Sample Database Normalization 
-![screenshot](https://github.com/wonhyukjang/CS-503/blob/master/5.Final%20Report/Database_Normalization.png)
+![screenshot](https://github.com/wonhyukjang/Hospital-Database/blob/master/Database_Normalization.png)
 
